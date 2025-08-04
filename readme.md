@@ -1,10 +1,10 @@
 # sethgame.github.io
 
-Personal blog and brain dump website for Jaesung Eom, built with Hugo and deployed to GitHub Pages.
+Personal blog and brain dump website for Seth Eom, built with Hugo and deployed to GitHub Pages.
 
 ## Overview
 
-This is a Korean-language personal blog titled "Brain dump" (일상다반사를 뇌안에서 꺼내서 적고 바라보기) where daily thoughts and experiences are documented. The site follows a minimalist approach using the hugo-bearblog theme.
+This is an English-language personal blog titled "Brain dump" where daily thoughts and experiences are documented ("Extracting daily thoughts from my brain and putting them into words"). The site follows a minimalist approach using the hugo-bearblog theme.
 
 **Live Site:** https://sethgame.github.io/
 
@@ -13,7 +13,7 @@ This is a Korean-language personal blog titled "Brain dump" (일상다반사를 
 - **Static Site Generator:** [Hugo](https://gohugo.io/)
 - **Theme:** [hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
 - **Deployment:** GitHub Pages with automated CI/CD
-- **Language:** Korean (ko)
+- **Language:** English (en)
 - **Content Format:** Markdown
 
 ## Project Structure
@@ -44,23 +44,28 @@ sethgame.github.io/
 ## Site Configuration
 
 - **Base URL:** `https://sethgame.github.io/`
-- **Language:** Korean (`ko`)
-- **Author:** Jaesung Eom
-- **Description:** Personal brain dump blog
+- **Language:** English (`en`)
+- **Author:** Seth Eom
+- **Description:** Seth - Computer Engineering Student & AI Researcher
 - **Pagination:** 5 posts per page
 - **Summary Length:** 30 words
 
 ## About the Author
 
-**Jaesung Eom** - Research Engineer at Autodesk with expertise in:
-- Numerical Computing (Iterative solvers, FEM, Meshless methods)
-- AI/ML Prototyping (LangChain, LangGraph, Azure OpenAI, AWS Bedrock)
-- Programming Languages (Python, C/C++, FORTRAN, Golang, Rust)
+**Seth Eom** - Undergraduate Computer Engineering student at Purdue University with expertise in:
+- AI/ML Technologies (PyTorch, Neural Networks, CUDA-based memory profiling)
+- Programming Languages (Python, C Programming, MATLAB, SystemVerilog, Verilog)
+- Hardware Design (FPGA, Digital System Design, Microprocessor Systems)
+- Languages (Korean Conversational, Japanese Conversational, English Native)
+
+**Current Experience:**
+- Undergraduate Researcher at Guo Lab @ Purdue ECE (December 2024 - Present)
+- Working on AI neural network-based boundary detection in image processing
 
 **Education:**
-- Ph.D. in Mechanical Engineering, KAIST (2007)
-- M.S. in Mechanical Engineering, KAIST (2000)
-- B.S. in Mechanical Engineering, KAIST (1998)
+- Bachelor of Science in Computer Engineering, Purdue University (Expected May 2026)
+- GPA: 3.76, Dean's List and Semester Honors
+- Study Abroad: CJS Summer Japanese Program, Nanzan University, Japan (2024)
 
 ## Development Setup
 
@@ -139,7 +144,7 @@ The deployment workflow:
 
 - **Responsive Design:** Mobile-friendly hugo-bearblog theme
 - **Recent Posts:** Homepage displays 5 most recent posts
-- **Korean Language Support:** Optimized for Korean content
+- **English Language Support:** Optimized for English content
 - **Custom Shortcodes:** Enhanced content capabilities
 - **SEO Optimized:** Built-in SEO features from hugo-bearblog
 - **Fast Loading:** Minimalist design and optimized assets
@@ -157,5 +162,6 @@ This project is personal content. The hugo-bearblog theme is licensed under its 
 
 ## Contact
 
-- **Email:** jaesung.eom@gmail.com
-- **Location:** Pittsburgh, PA, USA
+- **Email:** eom.seth@gmail.com
+- **Location:** Wexford, PA, USA
+- **LinkedIn:** [linkedin.com/in/eomh](https://linkedin.com/in/eomh)

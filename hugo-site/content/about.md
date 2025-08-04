@@ -7,23 +7,47 @@ menu: main
 
 ## About
 
-**Email:** jaesung_dot_eom_at_gmail.com  
-**Location:** Pittsburgh, PA, USA
+**Email:** eom.seth@gmail.com  
+**Location:** Wexford, PA, USA  
+**LinkedIn:** [linkedin.com/in/eomh](https://linkedin.com/in/eomh)
 
 ### Summary
 
+Undergraduate Computer Engineering student at Purdue University with a passion for artificial intelligence, neural networks, and digital system design. Currently working as an undergraduate researcher focusing on AI-based image processing using PyTorch and Convolutional-Transformer approaches.
+
 ### Skills
-- **Numerical Computing:** Iterative solvers, Finite element methods, Meshless methods, Inverse problems
-- **Prototype with Agent:** Organize apps with LLM - anything Langchain, Langgraph, Azure OpenAI, AWS Bedrock
-- **Programming Languages:** Python, C/C++, FORTRAN, Golang, rust
+- **Programming Languages:** Python, C Programming, MATLAB, SystemVerilog, Verilog
+- **AI/ML Technologies:** PyTorch, Neural Networks, CUDA-based memory profiling
+- **Hardware:** FPGA, 3D Printing, Digital System Design, Microprocessor Systems
+- **Tools:** Excel (Graphical Analysis), Various development environments
+- **Languages:** Korean (Conversational), Japanese (Conversational), English (Native)
 
 ### Experience
-- Autodesk (2011-): Research Engineer
-- RPI, NY: Post doc researcher
-- UC Irvine, CA: Post doc
-- FEASoft, South Korea: FEA developer
+**Guo Lab @ Purdue ECE** | *Undergraduate Researcher* | December 2024 - Present
+- Working on artificial intelligence neural network-based boundary detection in image processing using PyTorch and Convolutional-Transformer based approach
+- Leveraged CUDA-based memory profiling to optimize model performance, reducing memory usage and enabling larger batch sizes during training
 
 ### Education
-- Ph.D. in Mechanical Engineering, KAIST, 2007
-- M.S. in Mechanical Engineering, KAIST, 2000
-- B.S. in Mechanical Engineering, KAIST, 1998
+**Purdue University** | *Bachelor of Science in Computer Engineering* | May 2026 (Expected)
+- **Location:** West Lafayette, IN
+- **GPA:** 3.76
+- **Honors:** Dean's List and Semester Honors
+
+### Study Abroad
+**CJS Summer Japanese Program – Nanzan University** | June 2024 - July 2024
+- **Location:** Nagoya, Japan
+- Developed skills in Japanese language and grammar, conversing with different perspectives
+- Gained insight into different cultural perspectives
+
+### Relevant Coursework
+- **ECE 362:** Microprocessor Systems and Interfacing
+- **ECE 270:** Introduction to Digital System Design
+- **Learning Community:** Engineering in the World of Data
+
+### Organizations & Activities
+- **IEEE Computer Society** - Active member
+- **Purdue Music Gaming Club** - Member
+- **Volunteer Work:** Altar Server at the Korean Catholic Church of Pittsburgh
+
+### Interests
+History, Violin, Tennis, Badminton, Japanese Culture and Language, Rhythm Games
