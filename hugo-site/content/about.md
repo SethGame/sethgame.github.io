@@ -1,19 +1,24 @@
 ---
-title: "About"
+title: "Resume"
 date: 2025-05-21T00:00:00+09:00
 draft: false
 menu: main
 ---
 
-## About
+## Resume
 
-**Email:** eom.seth@gmail.com  
 **Location:** Wexford, PA, USA  
 **LinkedIn:** [linkedin.com/in/eomh](https://linkedin.com/in/eomh)
 
 ### Summary
 
 Undergraduate Computer Engineering student at Purdue University with a passion for artificial intelligence, neural networks, and digital system design. Currently working as an undergraduate researcher focusing on AI-based image processing using PyTorch and Convolutional-Transformer approaches.
+
+### Education
+**Purdue University** | *Bachelor of Science in Computer Engineering* | May 2026 (Expected)
+- **Location:** West Lafayette, IN
+- **GPA:** 3.76
+- **Honors:** Dean's List and Semester Honors
 
 ### Skills
 - **Programming Languages:** Python, C Programming, MATLAB, SystemVerilog, Verilog
@@ -26,12 +31,6 @@ Undergraduate Computer Engineering student at Purdue University with a passion f
 **Guo Lab @ Purdue ECE** | *Undergraduate Researcher* | December 2024 - Present
 - Working on artificial intelligence neural network-based boundary detection in image processing using PyTorch and Convolutional-Transformer based approach
 - Leveraged CUDA-based memory profiling to optimize model performance, reducing memory usage and enabling larger batch sizes during training
-
-### Education
-**Purdue University** | *Bachelor of Science in Computer Engineering* | May 2026 (Expected)
-- **Location:** West Lafayette, IN
-- **GPA:** 3.76
-- **Honors:** Dean's List and Semester Honors
 
 ### Study Abroad
 **CJS Summer Japanese Program – Nanzan University** | June 2024 - July 2024
