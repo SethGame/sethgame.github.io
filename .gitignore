@@ -1,1 +1,10 @@
 hugo-site/public/
+*.docx
+*.doc
+*.pdf
+*.png
+*.jpg
+*.jpeg
+resume*
+*Resume*
+*resume*
