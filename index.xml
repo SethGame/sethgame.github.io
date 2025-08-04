@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Brain dump</title><link>https://sethgame.github.io/</link><description>Recent content in Home on Brain dump</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 03 Aug 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://sethgame.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>notion embed</title><link>https://sethgame.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://sethgame.github.io/blog/notion-embed/</guid><description>&lt;p>테스트 갑니다&lt;/p>
+&lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="600" frameborder="0" allowfullscreen>&lt;/iframe></description></item><item><title>About</title><link>https://sethgame.github.io/about/</link><pubDate>Wed, 21 May 2025 00:00:00 +0900</pubDate><guid>https://sethgame.github.io/about/</guid><description>&lt;h2 id="about">About&lt;/h2>
+&lt;p>&lt;strong>Email:&lt;/strong> &lt;a href="mailto:eom.seth@gmail.com">eom.seth@gmail.com&lt;/a>&lt;br>
+&lt;strong>Location:&lt;/strong> Wexford, PA, USA&lt;br>
+&lt;strong>LinkedIn:&lt;/strong> &lt;a href="https://linkedin.com/in/eomh">linkedin.com/in/eomh&lt;/a>&lt;/p>
+&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Undergraduate Computer Engineering student at Purdue University with a passion for artificial intelligence, neural networks, and digital system design. Currently working as an undergraduate researcher focusing on AI-based image processing using PyTorch and Convolutional-Transformer approaches.&lt;/p>
+&lt;h3 id="skills">Skills&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Programming Languages:&lt;/strong> Python, C Programming, MATLAB, SystemVerilog, Verilog&lt;/li>
+&lt;li>&lt;strong>AI/ML Technologies:&lt;/strong> PyTorch, Neural Networks, CUDA-based memory profiling&lt;/li>
+&lt;li>&lt;strong>Hardware:&lt;/strong> FPGA, 3D Printing, Digital System Design, Microprocessor Systems&lt;/li>
+&lt;li>&lt;strong>Tools:&lt;/strong> Excel (Graphical Analysis), Various development environments&lt;/li>
+&lt;li>&lt;strong>Languages:&lt;/strong> Korean (Conversational), Japanese (Conversational), English (Native)&lt;/li>
+&lt;/ul>
+&lt;h3 id="experience">Experience&lt;/h3>
+&lt;p>&lt;strong>Guo Lab @ Purdue ECE&lt;/strong> | &lt;em>Undergraduate Researcher&lt;/em> | December 2024 - Present&lt;/p></description></item></channel></rss>
