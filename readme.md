@@ -32,6 +32,8 @@ sethgame.github.io/
 │   │       └── *.md             # Individual blog posts
 │   ├── layouts/
 │   │   └── shortcodes/          # Custom Hugo shortcodes
+│   ├── static/
+│   │   └── CNAME                # Custom domain configuration
 │   ├── themes/
 │   │   └── hugo-bearblog/       # Theme submodule
 │   └── hugo.toml                # Hugo configuration
@@ -121,14 +123,17 @@ The site is automatically deployed to GitHub Pages using GitHub Actions:
 
 - **Trigger:** Push to `main` branch
 - **Build:** Hugo with minification
-- **Deploy:** To `gh-pages` branch
-- **Custom Domain:** `sethgame.github.io`
+- **Deploy:** Using official GitHub Pages actions
+- **Custom Domain:** `sethgame.github.io` (via CNAME file)
+- **Environment:** github-pages with proper permissions
 
 The deployment workflow:
 1. Checks out repository with submodules
 2. Sets up Hugo (latest version)
 3. Builds site with minification
-4. Deploys to GitHub Pages
+4. Configures GitHub Pages environment
+5. Uploads build artifacts
+6. Deploys using official GitHub Pages action
 
 ## Features
 
