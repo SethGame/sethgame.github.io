@@ -1,4 +1,4 @@
-baseURL = 'https://galerkin.github.io/'
+baseURL = 'https://sethgame.github.io/'
 languageCode = 'ko'
 title = 'Brain dump'
 theme = 'hugo-bearblog'
