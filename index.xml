@@ -1,8 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Seth Eom</title><link>https://sethgame.github.io/</link><description>Recent content in Home on Seth Eom</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 03 Aug 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://sethgame.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>notion embed</title><link>https://sethgame.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://sethgame.github.io/blog/notion-embed/</guid><description>&lt;p>테스트 갑니다&lt;/p>
-&lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="600" frameborder="0" allowfullscreen>&lt;/iframe></description></item><item><title>RL hello world</title><link>https://sethgame.github.io/blog/rl-hello-world/</link><pubDate>Fri, 01 Aug 2025 10:00:00 +0900</pubDate><guid>https://sethgame.github.io/blog/rl-hello-world/</guid><description>&lt;!-- Note: To display the image, please save it to hugo-site/static/images/ folder and uncomment the line below -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Seth Eom</title><link>https://sethgame.github.io/</link><description>Recent content in Home on Seth Eom</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 02 Aug 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://sethgame.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Elevator RL Multi-Agent</title><link>https://sethgame.github.io/blog/elevator-rl-multi-agent/</link><pubDate>Sat, 02 Aug 2025 10:00:00 +0900</pubDate><guid>https://sethgame.github.io/blog/elevator-rl-multi-agent/</guid><description>&lt;!-- Note: To display the image, please save it to hugo-site/static/images/ folder and uncomment the line below -->
+&lt;!-- ![Elevator RL Multi-Agent Screenshot](/images/elevator-rl-multi-agent-screenshot.jpg) -->
+&lt;h2 id="why">Why&lt;/h2>
+&lt;ul>
+&lt;li>In order to gain an understanding of more complex RL algorithms working with the FlexSim model, which includes state machine logic, multi-agent passenger management, and complex observation spaces&lt;/li>
+&lt;/ul>
+&lt;h2 id="how">How&lt;/h2>
+&lt;ul>
+&lt;li>Read and understood how the learning algorithm interfaced with the FlexSim via the state machine diagrams&lt;/li>
+&lt;li>Read about how the system uses action masking (A vector to store decisions) to output decisions to act upon&lt;/li>
+&lt;li>Ran the corresponding Python files to see it in action (The environment, the training, and the inference based on the trained model)&lt;/li>
+&lt;li>Learned about command &lt;code>tensorboard --logdir=.&lt;/code> in order to see the Tensorboard interface, and model results without using the command palette interface&lt;/li>
+&lt;li>Notice the difference in performance of the FlexSim model with the trained RL model making decisions rather than taking random decisions&lt;/li>
+&lt;/ul>
+&lt;h2 id="so-what">So What&lt;/h2>
+&lt;ul>
+&lt;li>Completing and understanding this allows for the bridging with previous more simpler concepts (From HelloWorld) to more complex agent models to understand in the future&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://grave-flood-782.notion.site/Elevator-RL-Multi-Agent-8-2-2426575c333a80e8a5cbdba481b418a8">Original Notion page&lt;/a>&lt;/p></description></item><item><title>RL hello world</title><link>https://sethgame.github.io/blog/rl-hello-world/</link><pubDate>Fri, 01 Aug 2025 10:00:00 +0900</pubDate><guid>https://sethgame.github.io/blog/rl-hello-world/</guid><description>&lt;!-- Note: To display the image, please save it to hugo-site/static/images/ folder and uncomment the line below -->
 &lt;!-- ![RL Hello World Screenshot](/images/rl-hello-world-screenshot.jpg) -->
 &lt;h2 id="why">Why&lt;/h2>
-&lt;p>In order to gain an introductory knowledge of utilizing an RL algorithm interfacing with the FlexSim model.&lt;/p>
+&lt;ul>
+&lt;li>In order to gain an introductory knowledge of utilizing an RL algorithm interfacing with the FlexSim model&lt;/li>
+&lt;/ul>
 &lt;h2 id="how">How&lt;/h2>
 &lt;ul>
 &lt;li>Read the .readme text files for each of the corresponding Python files to understand how they worked&lt;/li>
