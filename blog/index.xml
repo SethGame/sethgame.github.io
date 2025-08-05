@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Brain dump</title><link>https://sethgame.github.io/blog/</link><description>Recent content in Blog on Brain dump</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 03 Aug 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://sethgame.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>notion embed</title><link>https://sethgame.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://sethgame.github.io/blog/notion-embed/</guid><description>&lt;p>테스트 갑니다&lt;/p>
-&lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="600" frameborder="0" allowfullscreen>&lt;/iframe></description></item><item><title>RL hello world</title><link>https://sethgame.github.io/blog/rl-hello-world/</link><pubDate>Fri, 01 Aug 2025 10:00:00 +0900</pubDate><guid>https://sethgame.github.io/blog/rl-hello-world/</guid><description>&lt;h1 id="rl-hello-world---81">RL hello world - 8/1&lt;/h1>
-&lt;!-- Note: To display the image, please save it to hugo-site/static/images/ folder and uncomment the line below -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project on Seth Eom</title><link>https://sethgame.github.io/blog/</link><description>Recent content in Project on Seth Eom</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 03 Aug 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://sethgame.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>notion embed</title><link>https://sethgame.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://sethgame.github.io/blog/notion-embed/</guid><description>&lt;p>테스트 갑니다&lt;/p>
+&lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="600" frameborder="0" allowfullscreen>&lt;/iframe></description></item><item><title>RL hello world</title><link>https://sethgame.github.io/blog/rl-hello-world/</link><pubDate>Fri, 01 Aug 2025 10:00:00 +0900</pubDate><guid>https://sethgame.github.io/blog/rl-hello-world/</guid><description>&lt;!-- Note: To display the image, please save it to hugo-site/static/images/ folder and uncomment the line below -->
 &lt;!-- ![RL Hello World Screenshot](/images/rl-hello-world-screenshot.jpg) -->
 &lt;h2 id="why">Why&lt;/h2>
 &lt;p>In order to gain an introductory knowledge of utilizing an RL algorithm interfacing with the FlexSim model.&lt;/p>
@@ -13,6 +12,6 @@
 &lt;h2 id="so-what">So What&lt;/h2>
 &lt;ul>
 &lt;li>Completing this guide on the HelloWorld allows me to engage in more complex features of this style of project, and also gain insights into using tools to help me along the way.&lt;/li>
-&lt;li>For example, the use of the Tensorboard extension allows us to see the different parameter results for the training of the model
-&lt;a href="https://grave-flood-782.notion.site/RL-hello-world-8-1-2426575c333a803bb098d85c52426e08">Original Notion page&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;li>For example, the use of the Tensorboard extension allows us to see the different parameter results for the training of the model&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://grave-flood-782.notion.site/RL-hello-world-8-1-2426575c333a803bb098d85c52426e08">Original Notion page&lt;/a>&lt;/p></description></item></channel></rss>
