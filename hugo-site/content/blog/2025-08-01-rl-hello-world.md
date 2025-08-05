@@ -8,7 +8,7 @@ slug: rl-hello-world
 <!-- ![RL Hello World Screenshot](/images/rl-hello-world-screenshot.jpg) -->
 
 ## Why
-In order to gain an introductory knowledge of utilizing an RL algorithm interfacing with the FlexSim model.
+- In order to gain an introductory knowledge of utilizing an RL algorithm interfacing with the FlexSim model
 
 ## How
 - Read the .readme text files for each of the corresponding Python files to understand how they worked
