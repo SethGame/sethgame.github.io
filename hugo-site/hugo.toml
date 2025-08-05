@@ -1,6 +1,6 @@
 baseURL = 'https://sethgame.github.io/'
 languageCode = 'en'
-title = 'Brain dump'
+title = 'Seth Eom'
 theme = 'hugo-bearblog'
 [pagination]
 pagerSize = 5
