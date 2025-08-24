@@ -12,10 +12,6 @@ menu:
 **Location:** Wexford, PA, USA  
 **LinkedIn:** [linkedin.com/in/eomh](https://linkedin.com/in/eomh)
 
-### Summary
-
-Undergraduate Computer Engineering student at Purdue University with a passion for artificial intelligence, neural networks, and digital system design. Currently working as an undergraduate researcher focusing on AI-based image processing using PyTorch and Convolutional-Transformer approaches.
-
 ### Education
 **Purdue University** | *Bachelor of Science in Computer Engineering* | May 2026 (Expected)
 - **Location:** West Lafayette, IN

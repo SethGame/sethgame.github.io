@@ -25,8 +25,8 @@ sethgame.github.io/
 │       └── gh-pages.yml          # GitHub Actions deployment workflow
 ├── hugo-site/                    # Hugo site root
 │   ├── content/
-│   │   ├── _index.md            # Homepage content
-│   │   ├── about.md             # About page
+│   │   ├── _index.md            # Homepage with author summary
+│   │   ├── about.md             # Resume/CV page
 │   │   └── blog/                # Blog posts directory
 │   │       ├── _index.md
 │   │       └── *.md             # Individual blog posts
@@ -143,7 +143,9 @@ The deployment workflow:
 ## Features
 
 - **Responsive Design:** Mobile-friendly hugo-bearblog theme
+- **Homepage Summary:** Author introduction and background on landing page
 - **Recent Posts:** Homepage displays 5 most recent posts
+- **Resume Page:** Comprehensive CV with education, experience, and skills
 - **English Language Support:** Optimized for English content
 - **Custom Shortcodes:** Enhanced content capabilities
 - **SEO Optimized:** Built-in SEO features from hugo-bearblog
