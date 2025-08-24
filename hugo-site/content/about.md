@@ -9,9 +9,6 @@ menu:
 
 ## Resume
 
-**Location:** Wexford, PA, USA  
-**LinkedIn:** [linkedin.com/in/eomh](https://linkedin.com/in/eomh)
-
 ### Education
 **Purdue University** | *Bachelor of Science in Computer Engineering* | May 2026 (Expected)
 - **Location:** West Lafayette, IN

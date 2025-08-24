@@ -14,4 +14,11 @@ Undergraduate Computer Engineering student at Purdue University with a passion f
 
 ---
 
+## Contact
+
+**Email:** [eom.seth@gmail.com](mailto:eom.seth@gmail.com)  
+**LinkedIn:** [linkedin.com/in/eomh](https://linkedin.com/in/eomh)
+
+---
+
 © 2025 All rights reserved. 
